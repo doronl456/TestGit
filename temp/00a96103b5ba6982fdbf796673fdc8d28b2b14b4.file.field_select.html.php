@@ -1,6 +1,6 @@
 <?php /* Smarty version Smarty-3.1.21-dev, created on 2016-07-03 02:55:33
          compiled from "/homepages/37/d619410358/htdocs/developer/template/fields/field_select.html" */ ?>
-<?php /*%%SmartyHeaderCode:20700006815778b6e55769f9-51827290%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:20700006815778b6e55769f9-51827290%%*/if(!defined('SMARTY_DIR')) exit('teno direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
